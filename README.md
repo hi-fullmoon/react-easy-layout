@@ -1,2 +1,3 @@
-# react-esay-layout
+# react-easy-layout
+
 一个 react 的布局组件...
